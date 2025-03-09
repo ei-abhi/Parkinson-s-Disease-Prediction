@@ -41,8 +41,6 @@ Dataset source: [UCI Machine Learning Repository - Parkinson's Dataset](https://
 - Deploy the model using Flask or Streamlit for real-time predictions.
 
 ## Contact
-For any queries or collaborations, feel free to reach out at **your.email@example.com**.
+For any queries or collaborations, feel free to reach out at **abhiram29548@gmail.com**.
 
----
-Let me know if you need any modifications! 🚀
 
